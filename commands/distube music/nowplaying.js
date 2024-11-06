@@ -40,7 +40,7 @@ module.exports = {
                     .setAuthor({ 
                         name: lang.nowPlayingNoSongTitle, 
                         iconURL: musicIcons.wrongIcon,
-                        url: "https://discord.gg/xQF9f9yUEM"
+                        url: "https://discord.gg/1kiss"
                     })
                     .setFooter({ text: lang.nowPlayingFooterText, iconURL: musicIcons.footerIcon })
                     .setDescription(lang.nowPlayingNoSong);
