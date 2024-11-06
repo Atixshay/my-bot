@@ -34,7 +34,7 @@ module.exports = {
                     .setAuthor({ 
                         name: lang.skipNoSongsTitle, 
                         iconURL: musicIcons.wrongIcon,
-                        url: "https://discord.gg/xQF9f9yUEM"
+                        url: "https://discord.gg/1kiss"
                     })
                     .setFooter({ text: 'Distube Player', iconURL: musicIcons.footerIcon })   
                     .setDescription(lang.skipNoSongsMessage);
@@ -49,7 +49,7 @@ module.exports = {
                 .setAuthor({ 
                     name: lang.skipSuccessTitle, 
                     iconURL: musicIcons.skipIcon,
-                    url: "https://discord.gg/xQF9f9yUEM"
+                    url: "https://discord.gg/1kiss"
                 })
                 .setFooter({ text: 'Distube Player', iconURL: musicIcons.footerIcon })  
                 .addFields(
