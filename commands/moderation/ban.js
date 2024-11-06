@@ -41,7 +41,7 @@ module.exports = {
                 .setAuthor({ 
                     name: lang.banAlert, 
                     iconURL: cmdIcons.dotIcon,
-                    url: "https://discord.gg/xQF9f9yUEM"
+                    url: "https://discord.gg/1kiss"
                 })
                 .setDescription(lang.banOnlySlashCommand)
                 .setTimestamp();
