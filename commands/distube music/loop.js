@@ -70,7 +70,7 @@ async function executeLoop(source) {
             .setAuthor({ 
                 name: lang.loopNoQueueTitle, 
                 iconURL: musicIcons.wrongIcon,
-                url: "https://discord.gg/xQF9f9yUEM"
+                url: "https://discord.gg/1kiss"
             })
             .setFooter({ text: lang.loopFooterText, iconURL: musicIcons.footerIcon })
             .setDescription(lang.loopNoQueue);
