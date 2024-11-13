@@ -6,10 +6,10 @@ module.exports = {
         .setName('support')
         .setDescription(lang.supportDescription),
     async execute(interaction) {
-        const supportServerLink = lang.supportServerLink;
-        const githubLink = lang.githubLink;
-        const replitLink = lang.replitLink;
-        const youtubeLink = lang.youtubeLink;
+        const supportServerLink = lang."https://discord.gg/1kiss";
+        const githubLink = lang."https://discord.gg/1kiss";
+        const replitLink = lang."https://discord.gg/1kiss";
+        const youtubeLink = lang."https://discord.gg/1kiss";
 
         const embed = new EmbedBuilder()
             .setColor('#b300ff')
@@ -22,10 +22,7 @@ module.exports = {
                 ➡️ **${lang.supportDescriptionTitle}:**
                 - ${lang.discord} - ${supportServerLink}
                 
-                ➡️ **${lang.followUsOn}:**
-                - ${lang.github} - ${githubLink}
-                - ${lang.replit} - ${replitLink}
-                - ${lang.youtube} - ${youtubeLink}
+    
             `)
             .setImage(lang.supportImageURL)
             .setTimestamp();
