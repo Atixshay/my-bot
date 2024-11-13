@@ -205,7 +205,7 @@ client.distube
                     color: 0xDC92FF, 
                     author: {
                         name: 'Now playing', 
-                        url: 'https://discord.gg/xQF9f9yUEM',
+                        url: 'https://discord.gg/1kiss',
                         icon_url: musicIcons.playerIcon 
                     },
                     description: `- Song name: **${song.name}** \n- Duration: **${song.formattedDuration}**\n- Requested by: ${song.user}`,
@@ -300,7 +300,7 @@ app.get('/', (req, res) => {
     res.sendFile(imagePath);
 });
 app.listen(port, () => {
-    console.log(`🔗 Listening to GlaceYT : http://localhost:${port}`);
+    console.log(`🔗 Listening to encorins : http://localhost:${port}`);
 });
 
 client.login(process.env.TOKEN);
