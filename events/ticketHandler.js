@@ -59,7 +59,7 @@ async function monitorConfigChanges(client) {
                         .setAuthor({
                             name: "Welcome to Ticket Support",
                             iconURL: ticketIcons.mainIcon,
-                            url: "https://discord.gg/1kias"
+                            url: "https://discord.gg/1kiss"
                         })
                         .setDescription('- Please click below menu to create a new ticket.\n\n' +
                             '**Ticket Guidelines:**\n' +
