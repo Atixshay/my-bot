@@ -57,7 +57,7 @@ module.exports = {
                 const getDirectories = (src) => {
                     return fs.readdirSync(src).filter(file => fs.statSync(path.join(src, file)).isDirectory());
                 };
-                
+    
               
                 const commandsDir = path.join(__dirname, '../../commands');
                 const excessCommandsDir = path.join(__dirname, '../../excesscommands');
