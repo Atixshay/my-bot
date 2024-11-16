@@ -146,11 +146,11 @@ module.exports = {
                             page.thumbnail = "https://cdn.discordapp.com/attachments/1306222992791048202/1307246384340013086/standard.gif?ex=67399b91&is=67384a11&hm=f55ada14df4e65f052d78b301fe2ab0477945bf5caf4e2ef6a8aeb494815e13a&";
                             page.author.iconURL = "https://cdn.discordapp.com/attachments/1306222992791048202/1307245017496158268/static.png?ex=67399a4b&is=673848cb&hm=53a6a127e7e83ffb15a36b632a1640cc71129733f47bb70b4be998a4517b8f96&
                             break;
-                        case 'fun':
-                            page.image = 
+                     case 'fun':
+                            page.image = "https://cdn.discordapp.com/attachments/1264134884432285766/1270352605154902151/GlaceYT.gif?ex=66b3638f&is=66b2120f&hm=23878b54affd61573b105db7c1c016eb730911dc762b3fbabac5a32cbc884119&";
                             page.color = "#ffcc00";
-                            page.thumbnail = "https://cdn.discordapp.com/attachments/1306222992791048202/1307246384340013086/standard.gif?ex=67399b91&is=67384a11&hm=f55ada14df4e65f052d78b301fe2ab0477945bf5caf4e2ef6a8aeb494815e13a&";
-                            page.author.iconURL = "https://cdn.discordapp.com/attachments/1306222992791048202/1307245017496158268/static.png?ex=67399a4b&is=673848cb&hm=53a6a127e7e83ffb15a36b632a1640cc71129733f47bb70b4be998a4517b8f96&";
+                            page.thumbnail = "https://cdn.discordapp.com/attachments/1264134884432285766/1270353776489922651/s_removed.png?ex=66b364a6&is=66b21326&hm=2d4ded259b57f476c901c58401e1d6faba2653c0a964ee1c4f371ecf3da52100&";
+                            page.author.iconURL = "https://cdn.discordapp.com/attachments/1230824451990622299/1253655047259160596/6186-developer-bot.gif?ex=66a9667f&is=66a814ff&hm=1494b63ccfaf2dae30a35af520fb748dd17e76195c206f2925b526595018c60f&";
                             break;
                         case 'moderation':
                             page.image = "https://cdn.discordapp.com/attachments/1306222992791048202/1307246384340013086/standard.gif?ex=67399b91&is=67384a11&hm=f55ada14df4e65f052d78b301fe2ab0477945bf5caf4e2ef6a8aeb494815e13a&";
