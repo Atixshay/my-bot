@@ -147,7 +147,7 @@ module.exports = {
                             page.author.iconURL = "https://cdn.discordapp.com/attachments/1306222992791048202/1307245017496158268/static.png?ex=67399a4b&is=673848cb&hm=53a6a127e7e83ffb15a36b632a1640cc71129733f47bb70b4be998a4517b8f96&
                             break;
                         case 'fun':
-                            page.image = "https://cdn.discordapp.com/attachments/1306222992791048202/1307245017496158268/static.png?ex=67399a4b&is=673848cb&hm=53a6a127e7e83ffb15a36b632a1640cc71129733f47bb70b4be998a4517b8f96&" ;
+                            page.image = 
                             page.color = "#ffcc00";
                             page.thumbnail = "https://cdn.discordapp.com/attachments/1306222992791048202/1307246384340013086/standard.gif?ex=67399b91&is=67384a11&hm=f55ada14df4e65f052d78b301fe2ab0477945bf5caf4e2ef6a8aeb494815e13a&";
                             page.author.iconURL = "https://cdn.discordapp.com/attachments/1306222992791048202/1307245017496158268/static.png?ex=67399a4b&is=673848cb&hm=53a6a127e7e83ffb15a36b632a1640cc71129733f47bb70b4be998a4517b8f96&";
